@@ -1,3 +1,6 @@
+**see Releases list to download**
+**ダウンロードする場合はReleases欄を見てください**
+
 System 86.exe - beta creepy project
 
 any damage to your computer caused by this software is at your own risk and the author will not be held responsible.

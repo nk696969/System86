@@ -1,3 +1,8 @@
+→ → → → →
+**if you want to get old System86.exe links, see Release list**
+**もし古いバージョンのSystem86.exeを入手したい場合は、右のRelease欄を見てください**
+→ → → → →
+
 System 86.exe - beta creepy project
 
 any damage to your computer caused by this software is at your own risk and the author will not be held responsible.
